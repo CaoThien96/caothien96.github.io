@@ -2,7 +2,23 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example",
+    "package_name": "com.applink",
+    "sha256_cert_fingerprints":
+    ["19:03:31:78:3E:44:D5:58:75:5C:46:D6:24:66:6F:44:F9:6C:0F:18:8B:AD:30:0E:8B:91:24:91:32:ED:1E:74"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://caothien96.github.io"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.applink",
     "sha256_cert_fingerprints":
     ["19:03:31:78:3E:44:D5:58:75:5C:46:D6:24:66:6F:44:F9:6C:0F:18:8B:AD:30:0E:8B:91:24:91:32:ED:1E:74"]
   }
