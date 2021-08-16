@@ -1,0 +1,23 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "SBLA4PB63K.com.fdao.dawallet",
+        "paths": [
+          "NOT /e/*",
+          "*",
+          "/"
+        ]
+      },
+      {
+        "appID": "SBLA4PB63K.com.fdao.dawallet",
+        "paths": [
+          "NOT /e/*",
+          "*",
+          "/"
+        ]
+      }
+    ]
+  }
+}
