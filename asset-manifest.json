@@ -1,0 +1,34 @@
+{
+  "files": {
+    "static/js/0.04a26122.chunk.js": "https://pancake.kiemtienonline360.com/static/js/0.04a26122.chunk.js",
+    "static/js/0.04a26122.chunk.js.map": "https://pancake.kiemtienonline360.com/static/js/0.04a26122.chunk.js.map",
+    "main.js": "https://pancake.kiemtienonline360.com/static/js/main.92ff65d8.chunk.js",
+    "main.js.map": "https://pancake.kiemtienonline360.com/static/js/main.92ff65d8.chunk.js.map",
+    "runtime-main.js": "https://pancake.kiemtienonline360.com/static/js/runtime-main.6c4fc2b3.js",
+    "runtime-main.js.map": "https://pancake.kiemtienonline360.com/static/js/runtime-main.6c4fc2b3.js.map",
+    "static/css/3.4d37362b.chunk.css": "https://pancake.kiemtienonline360.com/static/css/3.4d37362b.chunk.css",
+    "static/js/3.27524d69.chunk.js": "https://pancake.kiemtienonline360.com/static/js/3.27524d69.chunk.js",
+    "static/js/3.27524d69.chunk.js.map": "https://pancake.kiemtienonline360.com/static/js/3.27524d69.chunk.js.map",
+    "static/js/4.73a6a27f.chunk.js": "https://pancake.kiemtienonline360.com/static/js/4.73a6a27f.chunk.js",
+    "static/js/4.73a6a27f.chunk.js.map": "https://pancake.kiemtienonline360.com/static/js/4.73a6a27f.chunk.js.map",
+    "static/js/5.b295e577.chunk.js": "https://pancake.kiemtienonline360.com/static/js/5.b295e577.chunk.js",
+    "static/js/5.b295e577.chunk.js.map": "https://pancake.kiemtienonline360.com/static/js/5.b295e577.chunk.js.map",
+    "static/js/6.b929a4f9.chunk.js": "https://pancake.kiemtienonline360.com/static/js/6.b929a4f9.chunk.js",
+    "static/js/6.b929a4f9.chunk.js.map": "https://pancake.kiemtienonline360.com/static/js/6.b929a4f9.chunk.js.map",
+    "static/js/7.31b0676e.chunk.js": "https://pancake.kiemtienonline360.com/static/js/7.31b0676e.chunk.js",
+    "static/js/7.31b0676e.chunk.js.map": "https://pancake.kiemtienonline360.com/static/js/7.31b0676e.chunk.js.map",
+    "index.html": "https://pancake.kiemtienonline360.com/index.html",
+    "static/css/3.4d37362b.chunk.css.map": "https://pancake.kiemtienonline360.com/static/css/3.4d37362b.chunk.css.map",
+    "static/js/0.04a26122.chunk.js.LICENSE.txt": "https://pancake.kiemtienonline360.com/static/js/0.04a26122.chunk.js.LICENSE.txt",
+    "static/js/3.27524d69.chunk.js.LICENSE.txt": "https://pancake.kiemtienonline360.com/static/js/3.27524d69.chunk.js.LICENSE.txt",
+    "static/js/4.73a6a27f.chunk.js.LICENSE.txt": "https://pancake.kiemtienonline360.com/static/js/4.73a6a27f.chunk.js.LICENSE.txt",
+    "static/js/5.b295e577.chunk.js.LICENSE.txt": "https://pancake.kiemtienonline360.com/static/js/5.b295e577.chunk.js.LICENSE.txt",
+    "static/media/inter.css": "https://pancake.kiemtienonline360.com/static/media/Inter.var.c2fe3cb2.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c4fc2b3.js",
+    "static/css/3.4d37362b.chunk.css",
+    "static/js/3.27524d69.chunk.js",
+    "static/js/main.92ff65d8.chunk.js"
+  ]
+}
